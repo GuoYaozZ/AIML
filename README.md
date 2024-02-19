@@ -1,2 +1,6 @@
 # AIML
-Books questions record
+
+找点事情做
+记一下看的书的课后题：
+* 机器学习周志华
+* 
